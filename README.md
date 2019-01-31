@@ -1,1 +1,2 @@
-# SBU
+# SBU CSE Projects
+# 
